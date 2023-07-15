@@ -32,6 +32,6 @@
     "react-native": "*"
   },
   "dependencies": {
-    "react-native-webview": "^9.0.1"
+    "react-native-webview": "git+https://github.com/beqramo/react-native-webview"
   }
 }
